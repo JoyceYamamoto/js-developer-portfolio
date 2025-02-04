@@ -47,5 +47,17 @@
 "languages": [
 "Português BR",
 "Inglês (iniciante)"
+],
+"portfolio": [
+  {
+    "name":"Projeto Pokemon- Curso ministrado na Dio",
+    "url":"https://github.com/JoyceYamamoto/pokemon-projeto",
+    "git":true
+  },
+  {
+    "name":"Criação de uma página de portfólio",
+    "url":"https://github.com/JoyceYamamoto/js-developer-portfolio",
+    "git":true
+  }
 ]
 }
