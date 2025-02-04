@@ -59,5 +59,12 @@
     "url":"https://github.com/JoyceYamamoto/js-developer-portfolio",
     "github":true
   }
+],
+"professionalExperience":[
+  {
+    "name":"Professora Educação Infantil/Gente Miúda",
+    "period": "Fevereiro 2017 - Dezembro 2024",
+    "description":"Professora de Educação Infantil, auxiliando no desenvolvimento de aprendezagens."
+  }
 ]
 }
